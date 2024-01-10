@@ -1,19 +1,19 @@
 {
-  "Projects": [
+  "projects": [
     {
       "id": 1,
       "heading": "Home Page",
       "text": "This Better Work"
     }
   ],
-  "Testimonials": [
+  "testimonials": [
     {
       "id": 1,
       "heading": "Testimonials Page",
       "text": "This Better Work Too"
     }
   ],
-  "Resume": [
+  "resume": [
     {
       "id": 1,
       "heading": "Testimonials Page",
