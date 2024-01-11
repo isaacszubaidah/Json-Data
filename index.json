@@ -2,6 +2,49 @@
   "projects": [
     {
       "id": 1,
+      "url":"https://i.imgur.com/meyVaVs.png",
+      "githubLink":"https://github.com/isaacszubaidah/vue-js-portfolio",
+      "siteLink":"https://github.com/isaacszubaidah/vue-js-portfolio",
+      "heading": "Home Page",
+      "text": "This Better Work"
+    },
+    {
+      "id": 2,
+      "url":"https://i.imgur.com/XrZaibJ.png",
+      "githubLink":"https://github.com/isaacszubaidah/vue-js-portfolio",
+      "siteLink":"https://github.com/isaacszubaidah/vue-js-portfolio",
+      "heading": "Home Page",
+      "text": "This Better Work"
+    },
+    {
+      "id": 3,
+      "url":"https://i.imgur.com/XqPcYt9.png",
+      "githubLink":"https://github.com/isaacszubaidah/vue-js-portfolio",
+      "siteLink":"https://github.com/isaacszubaidah/vue-js-portfolio",
+      "heading": "Home Page",
+      "text": "This Better Work"
+    },
+    {
+      "id": 4,
+      "url":"https://i.imgur.com/LKEbQ2e.png",
+      "githubLink":"https://github.com/isaacszubaidah/vue-js-portfolio",
+      "siteLink":"https://github.com/isaacszubaidah/vue-js-portfolio",
+      "heading": "Home Page",
+      "text": "This Better Work"
+    },
+    {
+      "id": 5,
+      "url":"https://i.imgur.com/STg7RFk.png",
+      "githubLink":"https://github.com/isaacszubaidah/vue-js-portfolio",
+      "siteLink":"https://github.com/isaacszubaidah/vue-js-portfolio",
+      "heading": "Home Page",
+      "text": "This Better Work"
+    },
+    {
+      "id": 6,
+      "url":"https://i.imgur.com/STg7RFk.png",
+      "githubLink":"https://github.com/isaacszubaidah/vue-js-portfolio",
+      "siteLink":"https://github.com/isaacszubaidah/vue-js-portfolio",
       "heading": "Home Page",
       "text": "This Better Work"
     }
@@ -9,6 +52,37 @@
   "testimonials": [
     {
       "id": 1,
+      "url":"https://i.imgur.com/LKEbQ2e.png",
+      "heading": "Testimonials Page",
+      "text": "This Better Work Too"
+    },
+    {
+      "id": 2,
+      "url":"https://i.imgur.com/LKEbQ2e.png",
+      "heading": "Testimonials Page",
+      "text": "This Better Work Too"
+    },
+    {
+      "id": 3,
+      "url":"https://i.imgur.com/LKEbQ2e.png",
+      "heading": "Testimonials Page",
+      "text": "This Better Work Too"
+    },
+    {
+      "id": 4,
+      "url":"https://i.imgur.com/LKEbQ2e.png",
+      "heading": "Testimonials Page",
+      "text": "This Better Work Too"
+    },
+    {
+      "id": 5,
+      "url":"https://i.imgur.com/LKEbQ2e.png",
+      "heading": "Testimonials Page",
+      "text": "This Better Work Too"
+    },
+    {
+      "id": 6,
+      "url":"https://i.imgur.com/LKEbQ2e.png",
       "heading": "Testimonials Page",
       "text": "This Better Work Too"
     }
@@ -16,7 +90,12 @@
   "resume": [
     {
       "id": 1,
-      "heading": "Resume Page",
+      "heading": "Testimonials Page",
+      "text": "This Better Work Too"
+    },
+    {
+      "id": 2,
+      "heading": "Testimonials Page",
       "text": "This Better Work Too"
     }
   ]
