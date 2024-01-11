@@ -91,12 +91,14 @@
     {
       "id": 1,
       "heading": "Testimonials Page",
-      "text": "This Better Work Too"
+      "text": "This Better Work Too",
+      "type": "work"
     },
     {
       "id": 2,
       "heading": "Testimonials Page",
-      "text": "This Better Work Too"
+      "text": "This Better Work Too",
+      "type": "softTech"
     }
   ]
 }
