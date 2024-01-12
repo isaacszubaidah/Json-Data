@@ -111,8 +111,14 @@
     },
     {
       "id": 4,
-      "heading": "Testim",
-      "text": "This Better Work Too",
+      "heading": "Soft Skills",
+      "text": "Communication,Problem Solving,Emotional Intelligence",
+      "type": "softTech"
+    },
+    {
+      "id": 4,
+      "heading": "Technical Skills",
+      "text": "HTML,CSS,Bootstrap,Javascript,Vue Js.",
       "type": "softTech"
     }
   ]
