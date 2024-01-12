@@ -112,13 +112,44 @@
     {
       "id": 4,
       "heading": "Soft Skills",
-      "text": "Communication,Problem Solving,Emotional Intelligence",
+      "text": "Communication",
       "type": "softTech"
     },
     {
-      "id": 4,
+      "id": 5,
+      "text": "Problem Solving",
+      "type": "softTech"
+    },
+    {
+      "id": 6,
+      "text": "Emotional Intelligence",
+      "type": "softTech"
+    },
+    {
+      "id": 7,
       "heading": "Technical Skills",
-      "text": "HTML,CSS,Bootstrap,Javascript,Vue Js.",
+      "text": "HTML",
+      "type": "softTech"
+    },
+    {
+      "id": 7,
+      "heading": "Technical Skills",
+      "text": "CSS",
+      "type": "softTech"
+    },
+    {
+      "id": 7,
+      "text": "Bootstrap",
+      "type": "softTech"
+    },
+    {
+      "id": 7,
+      "text": "Javascript",
+      "type": "softTech"
+    },
+    {
+      "id": 7,
+      "text": "Vue Js",
       "type": "softTech"
     }
   ]
