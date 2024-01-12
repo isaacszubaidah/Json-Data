@@ -132,23 +132,23 @@
       "type": "softTech"
     },
     {
-      "id": 7,
+      "id": 8,
       "heading": "Technical Skills",
       "text": "CSS",
       "type": "softTech"
     },
     {
-      "id": 7,
+      "id": 9,
       "text": "Bootstrap",
       "type": "softTech"
     },
     {
-      "id": 7,
+      "id": 10,
       "text": "Javascript",
       "type": "softTech"
     },
     {
-      "id": 7,
+      "id": 11,
       "text": "Vue Js",
       "type": "softTech"
     }
