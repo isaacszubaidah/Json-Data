@@ -2,7 +2,7 @@
   "projects": [
     {
       "id": 1,
-      "url":"https://i.imgur.com/meyVaVs.png",
+      "url":"https://i.imgur.com/hJA1vLR.png",
       "githubLink":"https://github.com/isaacszubaidah/vue-js-portfolio",
       "siteLink":"https://effervescent-strudel-12944b.netlify.app",
       "heading": "Sweet Bite Treats",
@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "url":"https://i.imgur.com/XrZaibJ.png",
+      "url":"https://i.imgur.com/O2DKKkk.png",
       "githubLink":"https://github.com/isaacszubaidah/vue-js-portfolio",
       "siteLink":"https://zubicalculator.netlify.app",
       "heading": "Calculator",
@@ -18,7 +18,7 @@
     },
     {
       "id": 3,
-      "url":"https://i.imgur.com/XqPcYt9.png",
+      "url":"https://i.imgur.com/PMDHIhB.png",
       "githubLink":"https://github.com/isaacszubaidah/vue-js-portfolio",
       "siteLink":"https://silly-panda-2bf815.netlify.app",
       "heading": "Netflix Page",
@@ -26,7 +26,7 @@
     },
     {
       "id": 4,
-      "url":"https://i.imgur.com/LKEbQ2e.png",
+      "url":"https://i.imgur.com/WQfH3o7.png",
       "githubLink":"https://github.com/isaacszubaidah/vue-js-portfolio",
       "siteLink":"https://isaacszubaidah.netlify.app",
       "heading": "First Portfolio",
@@ -34,7 +34,7 @@
     },
     {
       "id": 5,
-      "url":"https://i.imgur.com/STg7RFk.png",
+      "url":"https://i.imgur.com/QBQ9Y8I.png",
       "githubLink":"https://github.com/isaacszubaidah/vue-js-portfolio",
       "siteLink":"https://espressoyourself-09eb06.netlify.app/",
       "heading": "Espresso Yourself",
@@ -42,7 +42,7 @@
     },
     {
       "id": 6,
-      "url":"https://i.imgur.com/bOqNUOY.png",
+      "url":"https://i.imgur.com/Wl8BCEw.png",
       "githubLink":"https://github.com/isaacszubaidah/vue-js-portfolio",
       "siteLink":"https://zubaidahstodolist.netlify.app",
       "heading": "To Do List",
