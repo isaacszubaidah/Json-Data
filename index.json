@@ -90,33 +90,40 @@
   "resume": [
     {
       "id": 1,
-      "heading": "YearBeyond Programme",
-      "text": "This marked my inaugural job post-graduation, and I approached it with enthusiasm and a strong work ethic, contributing significantly to my skill development. Tutoring fourth-grade children was particularly rewarding, as it not only involved teaching but also establishing meaningful connections with them. Through this experience, I gained valuable lessons in resilience, patience, gratitude, and discipline.",
+      "heading": "Education",
+      "text": "I graduated from Manenberg High School in 2020, where I proudly served as the valedictorian of my graduating class. This experience ignited a profound realization of my leadership potential and allowed me to hone my skills in guiding others.",
       "type": "work",
-      "year": "January-August 2022"
+      "year": "January2020 -December2020 "
     },
     {
       "id": 2,
-      "heading": " NQFL4 Nature Conservation Learnership with Quemic Africa",
-      "text": "Transitioning from a confined space to an open environment was a unique experience. I encountered diverse animals, learned about the roles of plants and animals, and conquered my fear of snakes, realizing their harmlessness. This journey fostered my confidence, ownership, and leadership skills.",
-      "type": "work",
-      "year": "August2022 - August2023"
-    },
-    {
-      "id": 3,
       "heading": "Life Choices Coding Academy",
       "text": "Once again, I ventured beyond my comfort zone to explore a new facet of my work—coding, a realm I initially knew little about. Despite initial nervousness, my curiosity prevailed, and now, thriving in this new skill, I proudly acknowledge my successful journey. This experience has taught me to tap into my inner confidence, master public speaking, and appreciate the profound impact of words in shaping outcomes.",
       "type": "work",
       "year": "September2023 -2024 "
     },
     {
+      "id": 3,
+      "heading": "YearBeyond Programme",
+      "text": "This marked my inaugural job post-graduation, and I approached it with enthusiasm and a strong work ethic, contributing significantly to my skill development. Tutoring fourth-grade children was particularly rewarding, as it not only involved teaching but also establishing meaningful connections with them. Through this experience, I gained valuable lessons in resilience, patience, gratitude, and discipline.",
+      "type": "work",
+      "year": "January-August 2022"
+    },
+    {
       "id": 4,
+      "heading": " NQFL4 Nature Conservation Learnership with Quemic Africa",
+      "text": "Transitioning from a confined space to an open environment was a unique experience. I encountered diverse animals, learned about the roles of plants and animals, and conquered my fear of snakes, realizing their harmlessness. This journey fostered my confidence, ownership, and leadership skills.",
+      "type": "work",
+      "year": "August2022 - August2023"
+    },
+    {
+      "id": 5,
       "heading": "Soft Skills",
       "text": "Communication,Problem Solving,Emotional Intelligence",
       "type": "softTech"
     },
     {
-      "id": 5,
+      "id": 6,
       "heading": "Technical Skills",
       "text": "HTML,CSS,Bootstrap,Javascript,Vue Js.",
       "type": "softTech"
