@@ -14,7 +14,7 @@
       "githubLink":"https://github.com/isaacszubaidah/vue-js-portfolio",
       "siteLink":"https://zubicalculator.netlify.app",
       "heading": "Calculator",
-      "text": "This was my first Javascript task was challenging but yet again I did it.A project built with Javascript,CSS and HTML."
+      "text": "My inaugural JavaScript task posed a challenge, yet triumphantly, I succeeded. A project focused on crafting a calculator, showcasing my burgeoning skills in JavaScript development."
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "githubLink":"https://github.com/isaacszubaidah/vue-js-portfolio",
       "siteLink":"https://silly-panda-2bf815.netlify.app",
       "heading": "Netflix Page",
-      "text": "I built this after the sweet treats bakery and it was a piece of cake.This was built with CSS & HTML."
+      "text": "After successfully creating the Sweet Treats Bakery, replicating a Netflix page was a breeze. This project, meticulously crafted using CSS and HTML, mirrors the allure of the popular streaming platform."
     },
     {
       "id": 4,
@@ -46,7 +46,7 @@
       "githubLink":"https://github.com/isaacszubaidah/vue-js-portfolio",
       "siteLink":"https://zubaidahstodolist.netlify.app",
       "heading": "To Do List",
-      "text": "To make your tasks listing easier. It was built with Javascript & CSS."
+      "text": "I crafted a sleek and efficient to-do list using the power of JavaScript and CSS, simplifying task management with style."
     }
   ],
   "testimonials": [
