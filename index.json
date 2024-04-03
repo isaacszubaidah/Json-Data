@@ -2,11 +2,11 @@
   "projects": [
     {
       "id": 1,
-      "url":"https://i.imgur.com/hJA1vLR.png",
-      "githubLink":"https://github.com/isaacszubaidah/vue-js-portfolio",
-      "siteLink":"https://effervescent-strudel-12944b.netlify.app",
-      "heading": "Sweet Bite Treats",
-      "text": "The amount of proudness I felt for the achievement because I knew nothing at the time.This is one of my first projects it's an ecommerce built with CSS & HTML."
+      "url":"https://i.imgur.com/G5nNqGT.png",
+      "githubLink":"https://github.com/isaacszubaidah/calKey",
+      "siteLink":"https://fluffy-zuccutto-6603af.netlify.app",
+      "heading": "Keyboard",
+      "text": "This innovative keyboard project seamlessly integrates physical keystrokes with real-time desktop visualization, enhancing user experience and productivity."
     },
     {
       "id": 2,
@@ -34,11 +34,11 @@
     },
     {
       "id": 5,
-      "url":"https://i.imgur.com/QBQ9Y8I.png",
-      "githubLink":"https://github.com/isaacszubaidah/vue-js-portfolio",
-      "siteLink":"https://espressoyourself-09eb06.netlify.app/",
-      "heading": "Espresso Yourself",
-      "text": "A coffe shop that was built based on what beverages I like most. It was built with Javascript,CSS,Bootsrap and HTML."
+      "url":"https://i.imgur.com/09CozW7.png",
+      "githubLink":"https://github.com/isaacszubaidah/NODEJSEOMP",
+      "siteLink":"nodejseomp-5aae1.firebaseapp.com",
+      "heading": "Le Petit Italia",
+      "text": "Join me as I lead a collaborative effort to craft a captivating website for an Italian restaurant, blending passion and teamwork to bring the flavors of Italy to life online."
     },
     {
       "id": 6,
