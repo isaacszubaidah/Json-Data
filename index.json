@@ -47,6 +47,13 @@
       "siteLink":"https://zubaidahstodolist.netlify.app",
       "heading": "To Do List",
       "text": "I crafted a sleek and efficient to-do list using the power of JavaScript and CSS, simplifying task management with style."
+    },
+    {
+      "id": 7,
+      "url":"https://i.imgur.com/d0nEn6R.jpg",
+      "siteLink":"https://www.dropbox.com/scl/fi/ohmrfii238inhwbzxvt1m/Cypher-presentation.pdf?rlkey=8xef2sym69p243afjn9ubo0eb&st=diyg0b8k&dl=0",
+      "heading": "Scrum",
+      "text": "Learning Scrum and collaborating within a team was an enjoyable and enlightening experience, offering valuable insights into effective project management."
     }
   ],
   "testimonials": [
